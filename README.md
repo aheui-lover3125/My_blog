@@ -1,2 +1,2 @@
 # My_blog
-This is My blof
+This is My blog
